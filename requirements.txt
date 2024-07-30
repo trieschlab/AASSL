@@ -1,0 +1,15 @@
+matplotlib==3.4.3
+numpy==1.23.5
+pandas==1.5.3
+torch==2.0.0
+torchvision==0.15.1
+Pillow==9.4.0
+tensorboard==2.12.0
+pacmap==0.7.0
+tqdm==4.65.0
+seaborn==0.12.2
+omegaconf==2.3.0
+lightning==2.0.9.post0
+imagesize==1.4.1
+kornia==0.7.0
+h5py==3.9.0
