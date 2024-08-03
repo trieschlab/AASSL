@@ -8,11 +8,11 @@ For now, the paper is available on [arxiv](https://arxiv.org/pdf/2407.06704).
 ---
 ## Datasets
 
-**MVImgNet** : Publicly available
+**MVImgNet** : Publicly available, please adapt dataloader
 
-**CO3D-v1** : Publicly available
+**CO3D-v1** : Publicly available, please adapt dataloader
 
-**RT4K** : Available soon
+**RT4K** : [Available there](https://zenodo.org/records/12774929)
 
 ---
 ## Installation guide
